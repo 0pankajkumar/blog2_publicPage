@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pankaj Kumar | Humble beginnings</title>
-    <link>https://805bluebell.github.io/</link>
-    <description>Recent content on Pankaj Kumar | Humble beginnings</description>
+    <title>python on Pankaj Kumar | Humble beginnings</title>
+    <link>https://805bluebell.github.io/tags/python/</link>
+    <description>Recent content in python on Pankaj Kumar | Humble beginnings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Dec 2019 10:12:54 +0530</lastBuildDate>
     
-	<atom:link href="https://805bluebell.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://805bluebell.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://805bluebell.github.io/blog/multithreading_python_cpp/</guid>
       <description>Is Multithreading really useful  Thread - In computer science, a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler&amp;hellip; (source : Wikipedia) So, When you divide a program into independently managed pieces of work which can be later combined to have a correct end solution we divide it into chunks called threads.</description>
-    </item>
-    
-    <item>
-      <title>Lessons of Programming - I</title>
-      <link>https://805bluebell.github.io/blog/lessons_in_programming/</link>
-      <pubDate>Tue, 26 Nov 2019 10:14:07 +0530</pubDate>
-      
-      <guid>https://805bluebell.github.io/blog/lessons_in_programming/</guid>
-      <description>Lessions learnt  The corner cases of testing cases will annoy you.</description>
     </item>
     
     <item>

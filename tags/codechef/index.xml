@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codechef on Pankaj Kumar | Humble beginnings</title>
+    <link>https://805bluebell.github.io/tags/codechef/</link>
+    <description>Recent content in codechef on Pankaj Kumar | Humble beginnings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 10:16:17 +0530</lastBuildDate>
+    
+	<atom:link href="https://805bluebell.github.io/tags/codechef/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python for competitive programming</title>
+      <link>https://805bluebell.github.io/blog/python_for_competitive_programming/</link>
+      <pubDate>Mon, 21 Oct 2019 10:16:17 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/blog/python_for_competitive_programming/</guid>
+      <description>My first Cookoff Last night I was participating in CodeChef October Cookoff for the first time.</description>
+    </item>
+    
+  </channel>
+</rss>

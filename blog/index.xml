@@ -12,57 +12,39 @@
     
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://805bluebell.github.io/blog/amazon-increase-income.1/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Multithreading in C&#43;&#43; &amp; Python</title>
+      <link>https://805bluebell.github.io/blog/multithreading_python_cpp/</link>
+      <pubDate>Mon, 09 Dec 2019 10:12:54 +0530</pubDate>
       
-      <guid>https://805bluebell.github.io/blog/amazon-increase-income.1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://805bluebell.github.io/blog/multithreading_python_cpp/</guid>
+      <description>Is Multithreading really useful  Thread - In computer science, a thread of execution is the smallest sequence of programmed instructions that can be managed independently by a scheduler&amp;hellip; (source : Wikipedia) So, When you divide a program into independently managed pieces of work which can be later combined to have a correct end solution we divide it into chunks called threads.</description>
     </item>
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://805bluebell.github.io/blog/amazon-increase-income.2/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Lessons of Programming - I</title>
+      <link>https://805bluebell.github.io/blog/lessons_in_programming/</link>
+      <pubDate>Tue, 26 Nov 2019 10:14:07 +0530</pubDate>
       
-      <guid>https://805bluebell.github.io/blog/amazon-increase-income.2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://805bluebell.github.io/blog/lessons_in_programming/</guid>
+      <description>Lessions learnt  The corner cases of testing cases will annoy you.</description>
     </item>
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://805bluebell.github.io/blog/amazon-increase-income.3/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Ditch List, use Dict in Python</title>
+      <link>https://805bluebell.github.io/blog/ditch_list/</link>
+      <pubDate>Mon, 04 Nov 2019 11:56:35 +0530</pubDate>
       
-      <guid>https://805bluebell.github.io/blog/amazon-increase-income.3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://805bluebell.github.io/blog/ditch_list/</guid>
+      <description>So, one day I was using too much list &amp;amp; wondered why we can’t use dict all the time when it has O(1) time complexity.</description>
     </item>
     
     <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://805bluebell.github.io/blog/amazon-increase-income.4/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      <title>Python for competitive programming</title>
+      <link>https://805bluebell.github.io/blog/python_for_competitive_programming/</link>
+      <pubDate>Mon, 21 Oct 2019 10:16:17 +0530</pubDate>
       
-      <guid>https://805bluebell.github.io/blog/amazon-increase-income.4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://805bluebell.github.io/blog/amazon-increase-income.5/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://805bluebell.github.io/blog/amazon-increase-income.5/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Amazon increase income 1.5 Million</title>
-      <link>https://805bluebell.github.io/blog/amazon-increase-income/</link>
-      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
-      
-      <guid>https://805bluebell.github.io/blog/amazon-increase-income/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://805bluebell.github.io/blog/python_for_competitive_programming/</guid>
+      <description>My first Cookoff Last night I was participating in CodeChef October Cookoff for the first time.</description>
     </item>
     
   </channel>

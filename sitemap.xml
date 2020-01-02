@@ -3,37 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://805bluebell.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/categories/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/multithreading_python_cpp/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/categories/programming/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/python/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/categories/technology/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/threads/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/coding-competitions/</loc>
+    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/competitive-programming/</loc>
+    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/lessons_in_programming/</loc>
+    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/dict/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/ditch_list/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/hash/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/list/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/tags/codechef/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/python_for_competitive_programming/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://805bluebell.github.io/about/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/amazon-increase-income.1/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/amazon-increase-income.2/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/amazon-increase-income.3/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/amazon-increase-income.4/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/amazon-increase-income.5/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/amazon-increase-income/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
   
@@ -48,21 +108,8 @@
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/</loc>
-    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://805bluebell.github.io/portfolio/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/tags/</loc>
   </url>
   
 </urlset>
