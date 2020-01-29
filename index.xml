@@ -6,10 +6,21 @@
     <description>Recent content on Pankaj Kumar | Humble beginnings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Dec 2019 10:12:54 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 10:18:17 +0530</lastBuildDate>
     
 	<atom:link href="https://805bluebell.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My current progress</title>
+      <link>https://805bluebell.github.io/blog/current-progress/</link>
+      <pubDate>Wed, 29 Jan 2020 10:18:17 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/blog/current-progress/</guid>
+      <description>.
+Past 2018 June - Jan : GATE
+Lessons : Glipse of computer science syllabus</description>
+    </item>
     
     <item>
       <title>Multithreading in C&#43;&#43; &amp; Python</title>
